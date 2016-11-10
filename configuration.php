@@ -12,10 +12,10 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'pdomysql';
-	public $host = 'localhost';
-	public $user = 'root';
-	public $password = 'Adikako15.';
-	public $db = 'blog101';
+	public $host = 'mysql.hostinger.ph';
+	public $user = 'u922045632_user';
+	public $password = 'tagasako';
+	public $db = 'u922045632_db';
 	public $dbprefix = 'b101_';
 	public $live_site = '';
 	public $secret = 'ubibNAABGJQUV03N';
