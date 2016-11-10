@@ -14,7 +14,7 @@ class JConfig {
 	public $dbtype = 'pdomysql';
 	public $host = 'mysql.hostinger.ph';
 	public $user = 'u922045632_user';
-	public $password = 'tagasako';
+	public $password = 'webproject15';
 	public $db = 'u922045632_db';
 	public $dbprefix = 'b101_';
 	public $live_site = '';
